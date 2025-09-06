@@ -4,7 +4,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 import requests
 
 # Вставьте сюда токен, который вы получили от @BotFather
-BOT_TOKEN = "8364754669:AAGa_SoRZ3zd0KCuS-q2ALUppSu0owcxBUk"
+BOT_TOKEN = "BOT_TOKEN"
 
 # Включаем логирование, чтобы видеть ошибки
 logging.basicConfig(
